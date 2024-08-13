@@ -1,6 +1,6 @@
 # Predicting-Plant-Traits
-CS 480/680: Intro to Machine Learning Final Project 
-Malvika Patel
+CS 480/680: Intro to Machine Learning Final Project  
+Malvika Patel 
 August 13, 2024
 
 # Project Details
